@@ -1,3 +1,5 @@
+Solution README for Basic Testing Task
+
 Prerequisites
 Node.js: Version 22.14.0 or higher (LTS) is installed.
 Repository: Forked and cloned the repository from https://github.com/<%your_github_username%>/basic-testing.
